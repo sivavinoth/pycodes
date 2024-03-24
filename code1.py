@@ -1,5 +1,5 @@
-while True:
-    r = input("enter the  input :")
+def function():
     
-    if r == "no":
-        print("closed")
+    print('hi vinoth')
+    pass
+function()
