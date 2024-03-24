@@ -8,4 +8,3 @@ print(type(my_tuples))
 
 
 
-
