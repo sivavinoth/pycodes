@@ -1,2 +1,2 @@
 print("encapsulation")
-#oops condept
+#oops concept
